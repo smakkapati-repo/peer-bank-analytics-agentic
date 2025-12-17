@@ -24,7 +24,7 @@ The AI agent can instantly correlate a bank's declining Net Interest Margin with
 
 ## 🏗️ AWS Architecture
 
-![BankIQ+ AWS Architecture](arch/bankiq_plus_agentcore_architecture.png)
+![BankIQ+ AWS Architecture](arch/peer-bank-analytics.drawio.png)
 
 
 ### Architecture Deep Dive
